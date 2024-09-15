@@ -1,0 +1,153 @@
+{
+  "configVersion": 1,
+  "timestamp": 1726396068118,
+  "index": "/shubhamanantsale/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/shubhamanantsale/favicon.ico",
+        "/shubhamanantsale/index.html",
+        "/shubhamanantsale/main-5DLULKC4.js",
+        "/shubhamanantsale/manifest.webmanifest",
+        "/shubhamanantsale/polyfills-SCHOHYNV.js",
+        "/shubhamanantsale/styles-5INURTSO.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/shubhamanantsale/assets/Company1.svg",
+        "/shubhamanantsale/assets/Company2.png",
+        "/shubhamanantsale/assets/Company3.png",
+        "/shubhamanantsale/assets/Company4.png",
+        "/shubhamanantsale/assets/MS.png",
+        "/shubhamanantsale/assets/MS1.jpg",
+        "/shubhamanantsale/assets/MS2.jpg",
+        "/shubhamanantsale/assets/Org1.png",
+        "/shubhamanantsale/assets/Org10.png",
+        "/shubhamanantsale/assets/Org11.jpg",
+        "/shubhamanantsale/assets/Org2.png",
+        "/shubhamanantsale/assets/Org3.png",
+        "/shubhamanantsale/assets/Org4.png",
+        "/shubhamanantsale/assets/Org5.png",
+        "/shubhamanantsale/assets/Org6.png",
+        "/shubhamanantsale/assets/Org7.png",
+        "/shubhamanantsale/assets/Org8.png",
+        "/shubhamanantsale/assets/Org9.jpg",
+        "/shubhamanantsale/assets/background.jpg",
+        "/shubhamanantsale/assets/background1.webp",
+        "/shubhamanantsale/assets/boot.png",
+        "/shubhamanantsale/assets/cordova.jpg",
+        "/shubhamanantsale/assets/css.png",
+        "/shubhamanantsale/assets/demo.png",
+        "/shubhamanantsale/assets/gitexe.png",
+        "/shubhamanantsale/assets/html.png",
+        "/shubhamanantsale/assets/id1.jpeg",
+        "/shubhamanantsale/assets/images/user.jpeg",
+        "/shubhamanantsale/assets/js.png",
+        "/shubhamanantsale/assets/ng.png",
+        "/shubhamanantsale/assets/ng1.png",
+        "/shubhamanantsale/assets/ngM.png",
+        "/shubhamanantsale/assets/playStore.png",
+        "/shubhamanantsale/assets/react.png",
+        "/shubhamanantsale/assets/strapi.png",
+        "/shubhamanantsale/assets/ts.png",
+        "/shubhamanantsale/icons/icon-128x128.png",
+        "/shubhamanantsale/icons/icon-144x144.png",
+        "/shubhamanantsale/icons/icon-152x152.png",
+        "/shubhamanantsale/icons/icon-192x192.png",
+        "/shubhamanantsale/icons/icon-384x384.png",
+        "/shubhamanantsale/icons/icon-512x512.png",
+        "/shubhamanantsale/icons/icon-72x72.png",
+        "/shubhamanantsale/icons/icon-96x96.png",
+        "/shubhamanantsale/media/background1-VH4XPCK4.webp"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/shubhamanantsale/assets/Company1.svg": "fe931aecd4422a41fcbb02c2dfa73c7f56aa98bc",
+    "/shubhamanantsale/assets/Company2.png": "9e1f95e4d55f061fa273d2bb345c03e1d71a688a",
+    "/shubhamanantsale/assets/Company3.png": "87317d68ada55c1d7a93a072077833574ea4e980",
+    "/shubhamanantsale/assets/Company4.png": "db2161276aec61e7ef14aaef748237f7394cd973",
+    "/shubhamanantsale/assets/MS.png": "8614b3c3af53e9faa1c312c4090b79aff9160923",
+    "/shubhamanantsale/assets/MS1.jpg": "2f4fd6071ddd1b7cb23cf917bec2b2e1f6d869ca",
+    "/shubhamanantsale/assets/MS2.jpg": "5b809e82aba27235c4de5625d897d9b0eac1f581",
+    "/shubhamanantsale/assets/Org1.png": "e557ebaee630d8896d15460951dbe80bba6d8deb",
+    "/shubhamanantsale/assets/Org10.png": "854d9090c719e5e1a8125fd5be1b8f8b995c71e8",
+    "/shubhamanantsale/assets/Org11.jpg": "4b0010cb1e9cfe4cc2e4362e43299bf3977e0d75",
+    "/shubhamanantsale/assets/Org2.png": "ff476e45984cb5b163bc1bf9f4959aca643a1cf9",
+    "/shubhamanantsale/assets/Org3.png": "767ecc44cec18b0cc92c9f2042f99014c5460bd5",
+    "/shubhamanantsale/assets/Org4.png": "97356db9daaca42654ab116468dc36c22b68d35f",
+    "/shubhamanantsale/assets/Org5.png": "87317d68ada55c1d7a93a072077833574ea4e980",
+    "/shubhamanantsale/assets/Org6.png": "db2161276aec61e7ef14aaef748237f7394cd973",
+    "/shubhamanantsale/assets/Org7.png": "fcc887bae59ff84c11cad77211df8b93b97353f6",
+    "/shubhamanantsale/assets/Org8.png": "7d1f2682eda77e2ccac98a1ff5f167e68204dc15",
+    "/shubhamanantsale/assets/Org9.jpg": "04423dafa0e0acf1ee6c6904e9222a58e6544684",
+    "/shubhamanantsale/assets/background.jpg": "32833cb6a1188fb5ca5e16bb5265ebeba171cbf5",
+    "/shubhamanantsale/assets/background1.webp": "b7ae70012c0a8ad27398eed584d0c1882736d83b",
+    "/shubhamanantsale/assets/boot.png": "7c62460ae2242ac3d4e01bcb2f80e99cf276bf75",
+    "/shubhamanantsale/assets/cordova.jpg": "f6bfccc12f98e55c602d3315829f538553b58dff",
+    "/shubhamanantsale/assets/css.png": "c58692fd020665a8fa2d14af299cc28b88017f3e",
+    "/shubhamanantsale/assets/demo.png": "fe6e5b87f9b873d4bfe524d828f400bca2be1882",
+    "/shubhamanantsale/assets/gitexe.png": "d04d1980b3f83e66f721b81ec6f8cb9c1360ce9a",
+    "/shubhamanantsale/assets/html.png": "b46da20a02db40228e569e63fa504b7ec600d614",
+    "/shubhamanantsale/assets/id1.jpeg": "1ddfd3d604bfd51a73e271fd1e731d77afe6b7cb",
+    "/shubhamanantsale/assets/images/user.jpeg": "852049ff8afc95539e053d4643533fa0f2d3c9e7",
+    "/shubhamanantsale/assets/js.png": "093ea39748ad4561f3b9c1370c90e844f0389a24",
+    "/shubhamanantsale/assets/ng.png": "2c08c3dee20541380d70b804cac2dc27a6f9c8fc",
+    "/shubhamanantsale/assets/ng1.png": "98ecbacc540165d06b5cb38f05cb3af46b878d0a",
+    "/shubhamanantsale/assets/ngM.png": "223786767e851ccafef3d3f9ea91b6699bdd9bbe",
+    "/shubhamanantsale/assets/playStore.png": "508e9ccb5c24d9b5ff74b382b8ed1ac982c363b2",
+    "/shubhamanantsale/assets/react.png": "f9feb3a5a768a11231a72ad7ebc7691a15b783ee",
+    "/shubhamanantsale/assets/strapi.png": "5166f0e4ee74e7ad57b8efc6be295326211897e2",
+    "/shubhamanantsale/assets/ts.png": "9f22d765d4ba7140aa43b8f36882316d9480a545",
+    "/shubhamanantsale/favicon.ico": "9223e4801b4e752b79d3a50b8acfdd3b7c22341b",
+    "/shubhamanantsale/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/shubhamanantsale/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/shubhamanantsale/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/shubhamanantsale/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/shubhamanantsale/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/shubhamanantsale/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/shubhamanantsale/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/shubhamanantsale/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/shubhamanantsale/index.html": "e56514eae957cc5bba86a461ea3dd8d2857fe3dd",
+    "/shubhamanantsale/main-5DLULKC4.js": "caf3288656eaf8eb14b9d70fdea7b773c33840e2",
+    "/shubhamanantsale/manifest.webmanifest": "122689a2f8b6d57ac11143fa5aa951376db02320",
+    "/shubhamanantsale/media/background1-VH4XPCK4.webp": "b7ae70012c0a8ad27398eed584d0c1882736d83b",
+    "/shubhamanantsale/polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
+    "/shubhamanantsale/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
